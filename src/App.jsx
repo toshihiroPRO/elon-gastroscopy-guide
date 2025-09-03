@@ -7,7 +7,7 @@ import './App.css'
 
 // Import images
 import elonHeader from './assets/elon_musk_header.png'
-import step1 from './assets/step1_consultation.png'
+import step1 from './assets/step1_consultation_2.png'
 import step2 from './assets/step2_antifoam.png'
 import step3 from './assets/step3_nasal_spray.png'
 import step4 from './assets/step4_anesthesia.png'
