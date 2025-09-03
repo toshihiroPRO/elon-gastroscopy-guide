@@ -309,21 +309,14 @@ function App() {
         </div>
       </section>
 
-      {/* CTA Section */}
-      <section className="py-16 bg-gradient-to-r from-blue-600 to-cyan-600 text-white">
-        <div className="container mx-auto px-4 text-center">
-          <h3 className="text-3xl font-bold mb-6">
-            健康な未来への第一歩を踏み出そう
-          </h3>
-          <p className="text-xl mb-8 max-w-2xl mx-auto">
-            定期的な胃カメラ検査で、早期発見・早期治療を実現しましょう。
-            胃ーロン・マスクも推奨する、革新的な医療技術です。
-          </p>
-          <Button size="lg" className="bg-white text-blue-600 hover:bg-gray-100 text-lg px-8 py-3">
-            医療機関に相談する
-          </Button>
-        </div>
-      </section>
+     {/* CTA Section */}
+<section className="py-16 bg-gradient-to-r from-blue-600 to-cyan-600 text-white">
+  <div className="container mx-auto px-4 text-center">
+    <h3 className="text-4xl md:text-5xl font-bold mb-0">
+      健康な未来への第一歩を踏み出そう
+    </h3>
+  </div>
+</section>
 
       {/* Footer */}
       <footer className="bg-gray-800 text-white py-8">
