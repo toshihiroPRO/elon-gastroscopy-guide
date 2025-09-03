@@ -186,7 +186,7 @@ function App() {
               className="w-48 h-48 mx-auto mb-8 rounded-full border-4 border-white shadow-2xl"
             />
             <h1 className="text-4xl md:text-6xl font-bold mb-4">
-              イーロン・マスクと学ぶ！
+              胃ーロン・マスクと学ぶ！
             </h1>
             <h2 className="text-2xl md:text-3xl mb-6">
               鼻から胃カメラ検査ガイド
@@ -216,7 +216,7 @@ function App() {
             <p className="text-lg text-gray-600 mb-8 leading-relaxed">
               鼻から細い内視鏡を挿入して胃の中を観察する検査です。
               従来の口からの検査と比べて苦痛が少なく、検査中も会話ができるのが特徴です。
-              イーロン・マスクと一緒に、この革新的な医療技術を学んでいきましょう！
+              胃ーロン・マスクと一緒に、この革新的な医療技術を学んでいきましょう！
             </p>
             
             <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6 mt-12">
@@ -276,7 +276,7 @@ function App() {
                     
                     <div className="bg-blue-50 p-4 rounded-lg border-l-4 border-blue-500">
                       <p className="text-blue-800 font-medium italic">
-                        💬 イーロンのコメント: "{step.elonComment}"
+                        💬 胃ーロンのコメント: "{step.elonComment}"
                       </p>
                     </div>
                   </div>
@@ -317,7 +317,7 @@ function App() {
           </h3>
           <p className="text-xl mb-8 max-w-2xl mx-auto">
             定期的な胃カメラ検査で、早期発見・早期治療を実現しましょう。
-            イーロン・マスクも推奨する、革新的な医療技術です。
+            胃ーロン・マスクも推奨する、革新的な医療技術です。
           </p>
           <Button size="lg" className="bg-white text-blue-600 hover:bg-gray-100 text-lg px-8 py-3">
             医療機関に相談する
@@ -332,7 +332,7 @@ function App() {
             ※ この情報は教育目的のものです。実際の検査については医療機関にご相談ください。
           </p>
           <p className="text-gray-500">
-            © 2024 イーロン・マスクと学ぶ胃カメラ検査ガイド
+            © 2024 胃ーロン・マスクと学ぶ胃カメラ検査ガイド
           </p>
         </div>
       </footer>
