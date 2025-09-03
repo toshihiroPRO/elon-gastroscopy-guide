@@ -253,7 +253,7 @@ function App() {
                     <img 
                       src={step.image} 
                       alt={step.title}
-                      className="w-full h-64 lg:h-full object-cover"
+                      className="w-full h-auto object-contain rounded-xl"
                     />
                   </div>
                   <div className="lg:w-1/2 p-8">
