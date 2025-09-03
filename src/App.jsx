@@ -328,11 +328,11 @@ function App() {
       {/* Footer */}
       <footer className="bg-gray-800 text-white py-8">
         <div className="container mx-auto px-4 text-center">
-          <p className="text-gray-400 mb-4">
-            ※ この情報は教育目的のものです。実際の検査については医療機関にご相談ください。
+          <p className="text-white text-lg mb-4">
+            ※ この情報は全てパロディです。事実に基づいていません。実際の検査については医療機関にご相談ください。
           </p>
           <p className="text-gray-500">
-            © 2024 胃ーロン・マスクと学ぶ胃カメラ検査ガイド
+            © 2025 胃ーロン・マスクと学ぶ胃カメラ検査ガイド
           </p>
         </div>
       </footer>
